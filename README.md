@@ -27,13 +27,13 @@ It provides real-time weather updates including temperature, humidity, pressure,
 3. Displays current weather conditions along with a 5-day forecast  
 
 ## 📂 Project Structure
-├── index.html # Main HTML file
-├── style.css # Custom CSS styles
-├── script.js # JavaScript logic (API calls, DOM updates)
-├── screenshot.png # Project preview image
-└── README.md # Project documentation
+├── index.html # Main HTML file.
+├── style.css # Custom CSS styles.
+├── script.js # JavaScript logic (API calls, DOM updates).
+├── screenshot.png # Project preview image.
+└── README.md # Project documentation.
 
-=====
+
 
 📌 Future Improvements
 
