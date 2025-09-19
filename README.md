@@ -14,7 +14,7 @@ It provides real-time weather updates including temperature, humidity, pressure,
 - 📱 Fully responsive design using **Bootstrap**  
 
 ## 🖼️ Preview
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot]((https://drive.google.com/file/d/1cA_A6yOojcWfgqyWc7Z9isWu0RQDT5C9/view?usp=sharing))
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, Bootstrap  
